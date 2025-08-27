@@ -13,3 +13,4 @@ func Run() error {
 // keep defaults in sync with the manifest
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
+// clarify the control flow
