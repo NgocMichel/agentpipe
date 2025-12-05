@@ -15,3 +15,4 @@ Notes and usage details for agentpipe.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
